@@ -1,0 +1,100 @@
+
+.main-cnt{
+    height: 700px;
+    width: 520px;
+    border: 10px solid rgb(241, 176, 11);
+    margin: auto;
+}
+
+.toran{
+    height: 300px;
+    width: 100%;
+    /* border: 1px solid green; */
+    background-image: url(toran.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card{
+    height: 260px;
+    width: 100%;
+    /* border: 1px solid blue; */
+    text-align: center;
+    line-height: 15px;
+    margin: 0 0 -10px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.frame1{
+    height: 90%;
+    width: 12%;
+    /* border: 1px solid red; */
+    background-image: url(frame1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.invitation{
+    height: 100%;
+    width: 60%;
+    /* border: 1px solid blue; */
+    text-align: center;
+    line-height: 15px;
+    margin: 0 0 -31px 0;
+}
+
+.frame2{
+    height: 90%;
+    width: 12%;
+    /* border: 1px solid red; */
+    background-image: url(frame2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    font-family:'Times New Roman', Times, serif;
+    color: goldenrod;
+    letter-spacing: 5px;
+}
+
+p{
+    color: rgb(109, 80, 7);
+    font-weight: bold;
+}
+.rangoli{
+    height: 150px;
+    width: 100%;
+    /* border: 1px solid green; */
+    display: flex;
+    justify-content: space-between;
+}
+
+.leftrangoli{
+    height: 100%;
+    width: 30%;
+    /* border: 1px solid black; */
+    background-image: url(leftrangoli.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.diva{
+    height: 50%;
+    width: 14%;
+    /* border: 1px solid red; */
+    background-image: url(diva.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 70px 0 0 0;
+}
+
+.rightrangoli{
+    height: 100%;
+    width: 30%;
+    /* border: 1px solid black; */
+    background-image: url(rightrangoli.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
